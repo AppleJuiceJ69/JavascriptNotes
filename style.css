@@ -1,0 +1,23 @@
+canvas{
+    border: 1px solid black;
+}
+
+body{
+    margin: 0;
+  
+}
+
+
+
+#container{
+    border: 1px solid black;
+    display: inline-block;
+    width: 35%;
+    
+}
+
+#close{
+    position: relative;
+    top: -50px;
+    left: 150px;
+}
